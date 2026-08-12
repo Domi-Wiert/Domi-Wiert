@@ -1,4 +1,4 @@
-## Hi there 👋
+## Dominik Kowalczyk Domi-Wiert Studnie głębinowe oraz gruntowe pompy ciepła
 
 <!--
 **Domi-Wiert/Domi-Wiert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
